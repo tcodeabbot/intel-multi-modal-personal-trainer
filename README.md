@@ -1,1 +1,0 @@
-# intel-multi-modal-personal-trainer
